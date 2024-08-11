@@ -1,1 +1,1 @@
-# real-time-hand-tracking
+# Real-time Hand Tracking Project
